@@ -5,16 +5,16 @@
  ## 后端本地部署运行
  ### 环境准备
 - 源码
-- Java >=8+ Maven 安装教程
-- IDEA 你懂的教程
-- Redis 安装包 
-- MySQL 安装包
+- Java >=8+ Maven 
+- IDEA 
+- Redis 
+- MySQL 
 - RabbitMQ + Erlag 安装教程参考本人博客：(https://blog.csdn.net/2301_79525309/article/details/146516209?spm=1001.2014.3001.5501)
 ### 本地启动
 - MySQL教程
 - Redis 下载下来直接默认下一步就行
-- RabbitMQ 安装运行教程
-- 配置 IDEA Maven 配置 教程
+- RabbitMQ 
+- 配置 IDEA Maven 配置
 - 安装 Redis
   如果想要修改端口号可以把上面的6379修改成对应的端口号
  ## 前端本地部署运行
@@ -74,7 +74,7 @@
 
 ## 快速上手
 
-> 所有需要修改的地方鱼皮都标记了 `todo`，便于大家找到修改的位置~
+> 所有需要修改的地方我都标记了 `todo`
 
 ### MySQL 数据库
 
